@@ -62,7 +62,7 @@ function App() {
 
   return (
     <div className="container mt-5">
-      <h2 className="mb-4">User Table</h2>
+      <h2 className="mb-4">Email Table</h2>
       {error ? (
         <div className="alert alert-danger" role="alert">
           Error: {error}
